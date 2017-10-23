@@ -1,0 +1,82 @@
+[
+  {
+    "name": "bug",
+    "color": "fc2929"
+  },
+  {
+    "name": "duplicate",
+    "color": "cccccc"
+  },
+  {
+    "name": "enhancement",
+    "color": "84b6eb"
+  },
+  {
+    "name": "help wanted",
+    "color": "159818"
+  },
+  {
+    "name": "invalid",
+    "color": "e6e6e6"
+  },
+  {
+    "name": "question",
+    "color": "cc317c"
+  },
+  {
+    "name": "wontfix",
+    "color": "ffffff"
+  },
+  {
+    "name": "DO NOT MERGE",
+    "color": "b60205"
+  },
+  {
+    "name": "In QA",
+    "color": "bfdadc"
+  },
+  {
+    "name": "In Stage",
+    "color": "006b75"
+  },
+  {
+    "name": "In Dev",
+    "color": "944008"
+  },
+  {
+    "name": "deprecate",
+    "color": "f7c6c7"
+  },
+  {
+    "name": "release",
+    "color": "000000"
+  },
+  {
+    "name": "ideas",
+    "color": "d7e102"
+  },
+  {
+    "name": "discuss",
+    "color": "02d7e1"
+  },
+  {
+    "name": "needs tests",
+    "color": "e11d21"
+  },
+  {
+    "name": "future",
+    "color": "e102d8"
+  },
+  {
+    "name": "deps",
+    "color": "444444"
+  },
+  {
+    "name": "low priority",
+    "color": "cfd8dc"
+  },
+  {
+    "name":"APPROVE ONLY",
+    "color": "0e8a16"
+  }
+]
